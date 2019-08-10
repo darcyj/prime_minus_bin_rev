@@ -7,6 +7,7 @@
 # column "p" is all prime numbers from zero to xmax, the
 # second column "binrev" is the binary reversal of p, and
 # the third column "pmbinrev" is p - binrev.
+# John L. Darcy, August 2019
 
 prime_minus_bin_rev <- function(xmax){
 	require(primes)
