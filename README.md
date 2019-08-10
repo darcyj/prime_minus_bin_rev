@@ -8,5 +8,9 @@ This R function Computes the integer sequence "nth prime minus its binary revers
 * R
 * R package "primes"
 * R package "binaryLogic"
+
 (packages can be installed with `install.packages(c("primes", "binaryLogic"))`.
+
+## How to use:
+Just look inside prime_minus_bin_rev.r and paste all the code into R. There's extra documentation in that file for more advanced use as well. Have fun!
 
